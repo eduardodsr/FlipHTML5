@@ -9,7 +9,6 @@ FlipHTML5 is a free Flip Book Maker designed to convert PDF and Images to HTML5 
  
  eduardodsr | EBOOK PILATES AVANÇADO
 
- ![](https://i.imgur.com/5lYoa7T.png)
-
-
 :bookmark_tabs:  ``` link: ```  <https://fliphtml5.com/homepage/bhgoi>
+
+ ![](https://i.imgur.com/5lYoa7T.png)
