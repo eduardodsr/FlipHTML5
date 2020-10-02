@@ -1,5 +1,9 @@
-# FlipHTML5
-## Create Realistic Responsive HTML5 FlipBook from PDF.
+# FlipHTML5 (Create Realistic Responsive HTML5 FlipBook from PDF)
+
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.FlipHTML5)
+
+### Create Realistic Responsive HTML5 FlipBook from PDF.
 
 PDF to Flip Book - Make PDF interactive
 FlipHTML5 is a free Flip Book Maker designed to convert PDF and Images to HTML5 & jQuery based page flip eBook, making PDF files more interactive.
